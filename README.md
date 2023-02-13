@@ -1,3 +1,3 @@
-# PiratesInvasionStage-6
-
-adding sounds and score
+# PiratesInvasionStage
+swal() function
+Two buttons are added
